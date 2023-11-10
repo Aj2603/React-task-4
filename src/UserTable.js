@@ -61,4 +61,4 @@ const tableCellStyle = {
   textAlign: 'left',
 };
 
-export default FetchData;
+export default UserTable;
